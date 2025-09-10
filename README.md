@@ -1,3 +1,5 @@
+
+bash setup.sh
 echo "# rehab-elhelw" >> README.md
 git init
 git add README.md
