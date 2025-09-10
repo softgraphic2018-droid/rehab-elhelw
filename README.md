@@ -1,4 +1,3 @@
-
 bash setup.sh
 echo "# rehab-elhelw" >> README.md
 git init
